@@ -1,0 +1,27 @@
+.ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    margin: auto;
+    width: 600px;
+}
+
+.li {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    width: 50px;
+    flex: 1 1 auto;
+}
+
+.li a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    color: #0E1F58;
+}
+
+a:hover {
+    color: #1C3EB0;
+}
