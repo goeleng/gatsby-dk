@@ -10,7 +10,6 @@ const Header = () => (
     <div className={style.headerdiv}>
       
       <div className={style.headerdiv__text}>
-        <Navigation style={style.nav}/>
         <h2 className={style.name}>Deborah Kopanitsak</h2>
         <div className={style.logo}><ImageLogo></ImageLogo></div>
         <SocialMedia/>
