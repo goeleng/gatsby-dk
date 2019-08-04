@@ -16,11 +16,11 @@ const IndexPage = () => (
         <a href="https://www.instagram.com/deborahkopanitsak/">Instagram</a>, 
         <a href="https://www.youtube.com/channel/UCF6HQAA3kOt15M-sMK3Ua5A">Youtube</a>, 
         <a href="https://www.twitch.tv/kopanitsak">Twitch</a>, 
-        <a href="https://www.deviantart.com/kopanitsak">DeviantArt</a> oder 
-        <a href="http://www.toonsup.com/kopanitsak">toonsUp</a> um immer aktuell über meine Arbeit informiert zu werden.
+        <a href="https://www.deviantart.com/kopanitsak">DeviantArt</a> oder <a href="http://www.toonsup.com/kopanitsak">toonsUp</a> um immer aktuell über meine Arbeit informiert zu werden.
+        Für exklusiven Inhalt werde mein Patron auf <a href="https://www.patreon.com/kopanitsak">Patreon</a> oder unterstütze mich einfach auf <a href="https://www.paypal.me/DKopanitsak">Paypal</a>.
         
       </p>
-      <p>Für exklusiven Inhalt werde mein Patron auf <a href="https://www.patreon.com/kopanitsak">Patreon</a> oder unterstütze mich einfach auf <a href="https://www.paypal.me/DKopanitsak">Paypal</a>.</p>
+      
       <p>Viel Spaß!</p>
     </div>
 
